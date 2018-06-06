@@ -10,3 +10,5 @@
 * In order to run the test enter the command "rspec" into your terminal(make sure you are in the correct directory)
 
 ### Details of this project
+
+For this project we went through Arrays and Hashes. More specifically how to manipulate them, extract values, symbols etc. as well as test them.
